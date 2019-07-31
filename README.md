@@ -40,3 +40,4 @@ http://forum.xda-developers.com/show...&postcount=260 thanks to @Msmtx
 
 Secure ADB ("unclickable" pop-up)workaround
 http://forum.xda-developers.com/show...&postcount=260 thanks to @Msmtx
+
