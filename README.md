@@ -18,6 +18,7 @@ echo "persist.sys.usb.config=mass_storage,adb" >>/system/build.prop"
 reboot
 
 GitHub: https://github.com/kjanku1/WindowsApplication1
+
 The tool itself: https://drive.google.com/file/d/0B5j...it?usp=sharing
 
 ### Linux port by ternes3
